@@ -36,20 +36,35 @@ $ bash W8FBPhish.sh
 ## Setup Cloudflare Port Forwarding 
 Fast Chack Youre Architecture
 
-CMD... $ uname -a
-$ apt update
-$ pkg install wget -y
-$ pkg install php -y
- Cloudflare Arm Download Link..https://github.com/cloudflare/cloudflared/releases
-$ wget...Download Link
-$ ls 
-$ cd file name
-$ chmod +x file name
-$ ls
-  Permission Wifi+Hostport CMD
-$ termux-chroot
+      ..CMD..
+     $ uname -a
+     
+     $ apt update
+
+     $ pkg install wget -y
+
+     $ pkg install php -y
+
+Cloudflare Arm Download Link..https://github.com/cloudflare/cloudflared/releases
+
+     $ wget...Download Link
+
+     $ ls 
+
+     $ cd file name
+
+     $ chmod +x file name
+
+     $ ls
+
+     Permission Wifi+Hostport CMD
+
+
+     $ termux-chroot
+     
      Run CMD   
-$./file name tunnel --url localhost: Port 
+
+     $./file name tunnel --url localhost: Port 
 
 
 ## Legal disclaimer:
