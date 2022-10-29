@@ -7,7 +7,7 @@ Phishing Tool for  Facebook
 
 
 ### Features:
- Port Forwarding using Ngrok
+ Port Forwarding using Cloudflare
  
  ## This Tool Tested On :
 <ul>
