@@ -10,7 +10,7 @@ trap 'printf "\n";stop;exit 1' 2
 banner() {
 clear
  printf " \n"
-printf "\e[1;77m
+printf "\e[1;100m
 _    _ _____ __________________ _     _     _     
 | |  | |  _  ||  ___| ___ \ ___ \ |   (_)   | |  
 | |  | |\ V / | |_  | |_/ / |_/ / |__  _ ___| |__
@@ -18,7 +18,7 @@ _    _ _____ __________________ _     _     _
 \  /\  / |_| || |   | |_/ / |   | | | | \__ \ | | |
  \/  \/\_____/\_|   \____/\_|   |_| |_|_|___/_| |_|
                                                    \e[0m\n"                                                                                              
-printf " \e[1;77m          www.w8sojib.ml | https://www.youtube.com/c/WaitVai\e[0m \n"
+printf " \e[1;100m          www.w8sojib.ml | https://www.facebook.com/W8Vai/e[0m \n"
 printf "\n"
 }
 
